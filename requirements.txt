@@ -1,4 +1,0 @@
-aiogram
-telethon
-aiohttp
-aiosqlite

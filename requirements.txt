@@ -1,5 +1,0 @@
-aiogram
-pyrogram
-telethon
-aiohttp
-cryptography
